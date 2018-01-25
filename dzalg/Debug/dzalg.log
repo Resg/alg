@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  header.cpp
+c:\users\sergey\source\repos\dzalg\dzalg\header.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dzalg\dzalg\header.cpp(205): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dzalg\dzalg\header.cpp(229): warning C4018: <: несоответствие типов со знаком и без знака
+  dzalg.cpp
+  Создание кода...
+  dzalg.vcxproj -> C:\Users\Sergey\source\repos\dzalg\Debug\dzalg.exe
